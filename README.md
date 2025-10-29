@@ -11,11 +11,6 @@ The dashboard is thoughtfully designed to help stakeholders gain quick and valua
 
 ---
 
-## 🎥 Walkthrough Video
-![Furniture Sales Dashboard](https://www.youtube.com/watch?v=J_-Ychidfp4)
-
----
-
 ## 🧠 Skills Applied
 
 - 🧹 Data Cleaning & Transformation (Power Query)  
