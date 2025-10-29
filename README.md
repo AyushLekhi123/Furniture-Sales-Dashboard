@@ -7,14 +7,12 @@ The dashboard is thoughtfully designed to help stakeholders gain quick and valua
 ---
 
 ## 📸 Dashboard Preview
-![Furniture Sales Dashboard](https://github.com/AyushLekhi123/Furniture-Sales-Dashboard/blob/main/Dashboard%20GIF.gif)
+![Furniture Sales Dashboard](https://github.com/AyushLekhi123/Furniture-Sales-Dashboard/blob/main/Dashboard.png)
 
 ---
 
 ## 🎥 Walkthrough Video
-<p align="center">
-  <img src="https://github.com/AyushLekhi123/Furniture-Sales-Dashboard/blob/main/Dashboard%20GIF.gif" alt="Furniture Sales Dashboard" width="1000">
-</p>
+![Furniture Sales Dashboard](https://www.youtube.com/watch?v=J_-Ychidfp4)
 
 ---
 
