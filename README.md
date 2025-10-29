@@ -13,7 +13,7 @@ The dashboard is thoughtfully designed to help stakeholders gain quick and valua
 
 ## 🎥 Walkthrough Video
 <video width="800" controls>
-  <source src="https://github.com/AyushLekhi123/Furniture-Sales-Dashboard/blob/main/Excel%20Dashboard.mp4" type="video/mp4">
+  <source src="https://www.youtube.com/embed/J_-Ychidfp4?si=-ebsmf9m5kLq5VVk" type="video/mp4">
 </video>
 
 ---
